@@ -9,7 +9,9 @@ My path as a developer has been primarily self-taught, engaging in a variety of 
 - Ask me about anything, I am happy to help 
 - Reach out to me at: <a href="pedrazzolifacundo@gmail.com">pedrazzolifacundo@gmail.com</a> or <a href="https://linkedin.com/in/facundo-pedrazzoli" target="_blank"> linkedin </a>
 
-## My Skills Include
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills Include</b>
+<br>
+
 - **Languages**:
     
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,8 +34,4 @@ My path as a developer has been primarily self-taught, engaging in a variety of 
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
 
-<b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-<br> <div align='left'><a href="https://linkedin.com/in/facundo-pedrazzoli" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn: Facundo Pedrazzoli-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;"/> </a>
-<a href="mailto:pedrazzolifacundo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail: pedrazzolifacundo-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" /> </a></div>
